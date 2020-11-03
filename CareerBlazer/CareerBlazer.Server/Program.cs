@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Hosting;
+using System.Globalization;
 
 namespace CareerBlazer.Server
 {
@@ -7,6 +8,7 @@ namespace CareerBlazer.Server
     {
         public static void Main(string[] args)
         {
+            CultureInfo.CurrentCulture = new CultureInfo("en-GB");
             CreateHostBuilder(args).Build().Run();
         }
 
