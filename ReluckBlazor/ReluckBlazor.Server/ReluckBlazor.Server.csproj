@@ -9,8 +9,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CareerBlazer.Client\CareerBlazer.Client.csproj" />
-    <ProjectReference Include="..\CareerBlazer.Shared\CareerBlazer.Shared.csproj" />
+    <ProjectReference Include="..\ReluckBlazor.Client\ReluckBlazor.Client.csproj" />
+    <ProjectReference Include="..\ReluckBlazor.Shared\ReluckBlazor.Shared.csproj" />
   </ItemGroup>
 
 

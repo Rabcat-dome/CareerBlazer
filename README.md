@@ -1,3 +1,7 @@
+# ReluckBlazor
+07112020
+ini with Telerik
+
 # CareerBlazer
 24102020
 ini with Telerik

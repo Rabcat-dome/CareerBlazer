@@ -2,7 +2,7 @@
 using Microsoft.Extensions.Hosting;
 using System.Globalization;
 
-namespace CareerBlazer.Server
+namespace ReluckBlazor.Server
 {
     public class Program
     {

@@ -7,7 +7,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using System.Linq;
 
-namespace CareerBlazer.Server
+namespace ReluckBlazor.Server
 {
     public class Startup
     {

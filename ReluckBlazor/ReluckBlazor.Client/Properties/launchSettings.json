@@ -3,8 +3,8 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:53878/",
-      "sslPort": 44316
+      "applicationUrl": "http://localhost:53879/",
+      "sslPort": 44310
     }
   },
   "profiles": {
@@ -15,7 +15,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "CareerBlazer.Server": {
+    "ReluckBlazor.Shared": {
       "commandName": "Project",
       "launchBrowser": true,
       "environmentVariables": {

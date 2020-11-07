@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CareerBlazer.Server", "CareerBlazer\CareerBlazer.Server\CareerBlazer.Server.csproj", "{66DE7D86-33C1-4B59-BBBB-7D9E1E42A78B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReluckBlazor.Server", "ReluckBlazor\ReluckBlazor.Server\ReluckBlazor.Server.csproj", "{66DE7D86-33C1-4B59-BBBB-7D9E1E42A78B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CareerBlazer.Client", "CareerBlazer\CareerBlazer.Client\CareerBlazer.Client.csproj", "{1ACA10C0-C243-4305-9C8E-536D662E9CA3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReluckBlazor.Client", "ReluckBlazor\ReluckBlazor.Client\ReluckBlazor.Client.csproj", "{1ACA10C0-C243-4305-9C8E-536D662E9CA3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CareerBlazer.Shared", "CareerBlazer\CareerBlazer.Shared\CareerBlazer.Shared.csproj", "{10186829-C947-4107-A525-68F724C8EB84}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReluckBlazor.Shared", "ReluckBlazor\ReluckBlazor.Shared\ReluckBlazor.Shared.csproj", "{10186829-C947-4107-A525-68F724C8EB84}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
